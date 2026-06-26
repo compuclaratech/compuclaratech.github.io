@@ -1,0 +1,15 @@
+- title: Categorias
+  url: /categories/
+  icon: fas fa-th
+
+- title: Etiquetas
+  url: /tags/
+  icon: fas fa-tags
+
+- title: Archivo
+  url: /archives/
+  icon: fas fa-archive
+
+- title: Sobre mi
+  url: /about/
+  icon: fas fa-info-circle
