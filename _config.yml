@@ -1,14 +1,31 @@
 title: CompuClara
-email: compuclara.tech@gmail.com
+tagline: Informática clara y sin complicaciones
 description: >-
-  Informática clara y sin complicaciones. Hardware, redes y sistemas.
-  ¿Dudas con tu PC? Soluciones y recomendaciones de verdad.
-baseurl: ""
-url: "https://compuclaratech.github.io"
-twitter_username: compuclara
-github_username: compuclaratech
+  Hardware, redes y sistemas. ¿Dudas con tu PC?
+  Soluciones y recomendaciones de verdad.
 
-# Build settings
-theme: minima
+url: "https://compuclaratech.github.io"
+baseurl: ""
+
+lang: es
+timezone: Europe/Madrid
+
+github:
+  username: compuclaratech
+
+social:
+  name: CompuClara
+  email: compuclara.tech@gmail.com
+  links:
+    - https://www.instagram.com/compuclara.tech
+    - https://www.tiktok.com/@compuclara.tech
+    - https://compuclara.blogspot.com
+
+theme: jekyll-theme-chirpy
+
 plugins:
   - jekyll-feed
+
+# Build settings
+future: false
+show_excerpts: true
