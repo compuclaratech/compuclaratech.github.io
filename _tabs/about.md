@@ -7,10 +7,7 @@ order: 4
 
 Soy Jose Antonio, detras de CompuClara.
 
-Tengo formacion en ASIR y llevo anos resolviendo problemas
-de hardware, redes y sistemas. Vi que mucha gente tenia dudas
-con su PC y nadie se las explicaba de forma clara, sin tecnicismos
-y sin intentar venderles algo innecesario.
+Tengo formacion en ASIR y llevo anos resolviendo problemas de hardware, redes y sistemas. Vi que mucha gente tenia dudas con su PC y nadie se las explicaba de forma clara, sin tecnicismos y sin intentar venderles algo innecesario.
 
 Por eso existe CompuClara.
 
@@ -23,5 +20,4 @@ Por eso existe CompuClara.
 
 ## Contacto
 
-Tienes un problema con tu PC? Escribeme a
-**compuclara.tech@gmail.com** e intento ayudarte.
+Tienes un problema con tu PC? Escribeme a **compuclara.tech@gmail.com** e intento ayudarte.
