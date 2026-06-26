@@ -1,13 +1,11 @@
 title: CompuClara
-tagline: Informática clara y sin complicaciones
+tagline: Informatica clara y sin complicaciones
 avatar: /assets/img/avatar.png
 description: >-
-  Hardware, redes y sistemas. ¿Dudas con tu PC?
+  Hardware, redes y sistemas. Dudas con tu PC?
   Soluciones y recomendaciones de verdad.
-
 url: "https://compuclaratech.github.io"
 baseurl: ""
-
 lang: es
 timezone: Europe/Madrid
 
@@ -27,6 +25,9 @@ theme: jekyll-theme-chirpy
 plugins:
   - jekyll-feed
 
-# Build settings
 future: false
 show_excerpts: true
+collections:
+  tabs:
+    output: true
+    sort_by: order
