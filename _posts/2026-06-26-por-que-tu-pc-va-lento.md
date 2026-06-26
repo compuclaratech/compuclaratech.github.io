@@ -3,7 +3,7 @@ layout: post
 title: "Por que tu PC va lento y como arreglarlo (sin formatear)"
 date: 2026-06-26 10:00:00 +0200
 categories: [Hardware, Mantenimiento]
-tags: [pc lento, rendimiento, ram, ssd, pasta termica]
+tags: [pasta termica, pc lento, ram, rendimiento, ssd]
 description: "Tu PC va lento y no sabes por que. Aqui tienes las causas reales y como arreglarlas sin formatear ni gastar dinero de mas."
 ---
 
